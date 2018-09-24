@@ -145,3 +145,9 @@ a {
 a:hover, a:focus, a:active {
   color: #276A82;
 }
+
+.headerphoto
+{
+  background: url(mountains.jpg);
+  background-image: linear-gradient();
+}
